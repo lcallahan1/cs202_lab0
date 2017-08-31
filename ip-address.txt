@@ -1,0 +1,3 @@
+
+     IP address for the CS202 server is: 104.131.139.39
+

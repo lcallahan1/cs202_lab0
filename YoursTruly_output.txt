@@ -1,0 +1,7 @@
+
+The value of 6! is: 720
+
+This program was written by YoursTruly.
+
+Goodbye.
+
